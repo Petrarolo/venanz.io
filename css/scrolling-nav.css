@@ -31,14 +31,22 @@ p {
 
 /* Add a hover effect if you want */
 .fa:hover {
-  /* transform: scale(1.5); */
-  padding: 20px;
-
-  font-size: 70px;
-  /* width: 150px; */
+  font-size: 50px;
   text-decoration: none;
-  border-radius: 50%;
   opacity: 0.7;
+}
+
+.fa-cv {
+  background: #e6e600;
+  color: white;
+  padding: 0px;
+  width: 58px;
+  border-radius: 50%;
+}
+
+.fa-cv:hover {
+    opacity: 0.7;
+    width: 80px;
 }
 
 .fa-linkedin {
