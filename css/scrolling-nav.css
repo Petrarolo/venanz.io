@@ -19,6 +19,12 @@ p {
   margin-bottom: 0px;
 }
 
+body {
+  background-image: url("../img/whatsapp-background.png");
+  background-position: center;
+
+}
+
 
 .fa {
   padding: 20px;
